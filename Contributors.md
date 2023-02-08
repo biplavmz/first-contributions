@@ -88,6 +88,7 @@
 - [Siddharth Singh] (https://github.com/SidSin)
 - [Daniel Langwost] (https://github.com/LadanCode)
 - [Jon-Michael C](https://github.com/jon-michael-c)
+- [Biplav](https://github.com/biplavmz)
 - [Arman Moztarzadeh] (https://github.com/armanmoztar)
 - [Srinath Aravamudhan](https://github.com/fossSpirit)
 - -[Dhanvi Medha](https://github.com/jacobalternative)
